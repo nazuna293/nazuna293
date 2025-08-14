@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=nazuna293&color=yellow)  
-![](https://raw.githubusercontent.com/nazuna293/nazuna293/main/profile-summary-card-output/graywhite/3-stats.svg)
+![](https://komarev.com/ghpvc/?username=nazuna293&color=yellow)
 <!--
 **nazuna293/nazuna293** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
