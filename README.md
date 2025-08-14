@@ -1,9 +1,6 @@
 ## Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=nazuna293&color=yellow)
-  <a href="https://github.com/nazuna293">
-    <img height="20" src="https://img.shields.io/github/followers/nazuna293?label=follow&logo=github&style=flat"&color=yellow />
-  </a>
 
 <!--
 **nazuna293/nazuna293** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
