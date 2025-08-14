@@ -1,4 +1,4 @@
-## Hi there 👋 ![](https://komarev.com/ghpvc/?username=nazuna293&color=yellow)
+## Hi there! ![](https://komarev.com/ghpvc/?username=nazuna293&color=yellow)
 
 I make custom keyboards with ZMK firmware. I also create 3D models for 3D printing, focusing on function and design.
 
