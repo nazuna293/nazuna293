@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=nazuna293&color=yellow)
-
+http://github-profile-summary-cards.vercel.app/api/cards/stats?username={nazuna293}&theme={default}
 <!--
 **nazuna293/nazuna293** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
