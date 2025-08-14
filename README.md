@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://github.com/nazuna293">
-    <img height="20" src="https://komarev.com/ghpvc/?username=nazuna293" />
+    <img height="20" src="https://komarev.com/ghpvc/?username=nazuna293"&color=yellow/>
   </a>
   <a href="https://github.com/nazuna293">
     <img height="20" src="https://img.shields.io/github/followers/nazuna293?label=follow&logo=github&style=flat" />
