@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=nazuna293&color=yellow)
 <p align="left">
   <a href="https://github.com/nazuna293">
     <img height="20" src="https://komarev.com/ghpvc/?username=nazuna293"&color=yellow/>
