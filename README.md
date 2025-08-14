@@ -1,4 +1,4 @@
-I make custom keyboards with ZMK firmware. I also create 3D models for 3D printing, focusing on function and design.
+I make custom keyboards with ZMK firmware. I also create 3D models for 3D printing, focusing on function and design.  
 ![](https://komarev.com/ghpvc/?username=nazuna293&color=yellow)
 
 ## ⌨️Keyboard
