@@ -3,7 +3,7 @@ I make custom keyboards with ZMK firmware. I also create 3D models for 3D printi
 ![](https://komarev.com/ghpvc/?username=nazuna293&color=yellow)
 
 ## ⌨️Keyboard
-<img src="Enigma_01/docs/img/01_main.jpg">
+<img src="https://raw.githubusercontent.com//nazuea293/Enigma_01/docs/img/01_main.jpg">
 
 ↑[Enigma_01](https://github.com/nazuna293/Enigma_01)
 
