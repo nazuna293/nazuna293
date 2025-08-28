@@ -7,6 +7,8 @@ I make custom keyboards with ZMK firmware.
 
 ↑[Enigma_01](https://github.com/nazuna293/Enigma_01)
 
+[![Enigma Image](img/01_main.jpg)](https://github.com/nazuna293/Enigma_01)
+
 ## 📚note
 coming soon…
 
